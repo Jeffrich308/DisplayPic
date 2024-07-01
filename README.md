@@ -1,1 +1,1 @@
-example of displaying a pic on a label and scaled to fit label size.
+Example of displaying a pic on a label and will scale to fit the size of the label.
